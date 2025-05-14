@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fengfenze.com/images/travel-1.jpg" class="floatpic" width="360" height="480">
+<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="360" height="480">
 
 Here is **Fenze Feng (冯奋泽)**.
 
