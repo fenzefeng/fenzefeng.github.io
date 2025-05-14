@@ -8,24 +8,23 @@ title: Awards
 
 ## Scholarships
 
-- Dec 2023：**AAAI-24 Undergraduate Scholarship** ($5000)<br>Only 18 undergraduates are selected around the world
-- May 2024：Shiran Innovation Sponsorship ($1400)<br>One of the highest research awards in my school
-- Aug 2023：FEPG Scholarship ($1400)<br>One of the highest undergraduate awards in my school
-- May 2023：XiamenAir Scholarship ($600)<br>
-- June 2024：Best Final Year Project Award of Maynooth (€500)
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Course Project Award of Maynooth (€100)
-- First Prize Scholarship of MIEC ($2100, **Four times**)<br>Combined degree scholarship between FZU and Maynooth<br>
+- Dec 2023：National Encouragement Scholarship
+- Dec 2023：National Encouragement Scholarship
+- Nov 2023：Outstanding Student Cadre Award
+- Nov 2023：Shandong University Outstanding Student Award (Second Class)
+- Nov 2023：Shandong University Special Talent Scholarship (Second Class, Sports Excellence Category)
+- Nov 2024：Shandong University Special Talent Scholarship (First Class, Sports Excellence Category)
+- Nov 2023：Shandong University Special Talent Scholarship (Second Class, Social Service Category)
+- Nov 2024：Shandong University Special Talent Scholarship (Second Class, Social Service Category)
+- Nov 2024：Shandong University Special Talent Scholarship (Second Class, Research Innovation Category)
+
 
 ## Competitions (Selected)
 
-- Jan 2024：Finalist of China International College Students’ Innovation Competition (Top 3%)
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition (Top 1%)
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition (Top 5%)
-- June 2023：First Prize (Provincial championship) in Fujian Youth Science Innovation Project Competition (Top 3%)
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Nov 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling (Top 8%)
-- June 2022：**Championship** of 100-meter Freestyle Swimming Competition of Fuzhou University<br>
+- Dec 2024：National University Students Intelligent Car Race - **<font color='red'>3rd Place (North China Region), National Second Prize</font>**
+- Feb 2024: Interdisciplinary Contest in Modeling (ICM) - **<font color='red'>Meritorious Winner(Top 7%)</font>**
+- Sep 2024: China Undergraduate Mathematical Contest in Modeling - **<font color='red'>Provincial Second Prize</font>**
+
 
 ## Services
 
