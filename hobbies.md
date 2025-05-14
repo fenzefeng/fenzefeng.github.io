@@ -6,12 +6,12 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Sports - Basketball
 
 <div class="third">
-<img src="/images/swimming2.JPG">
+<!-- <img src="/images/swimming2.JPG">
 <img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/surfing1.JPG"> -->
 </div>
 <br>As a dedicated sports enthusiast, I actively participate in a wide range of athletic activities including basketball, badminton, running, baseball/softball, tennis, and volleyball. Basketball is my greatest passion—I play almost daily, finding it to be the perfect way to relieve academic stress and enjoy life. My commitment to sports has led me to earn over 20 athletic honors during my university years, reflecting both my competitive spirit and teamwork abilities. I particularly thrive in the dynamic, challenging environment of sports competitions, which continually push me to grow both physically and mentally.
 
