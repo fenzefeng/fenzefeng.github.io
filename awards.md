@@ -4,11 +4,10 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+> Lastest Update: 20th May 2024 &nbsp; [中文版本 (Chinese Version)](https://fenzefeng.github.io/file/awards-zh/)
 
 ## Scholarships
 
-- Dec 2023：National Encouragement Scholarship
 - Dec 2023：National Encouragement Scholarship
 - Nov 2023：Outstanding Student Cadre Award
 - Nov 2023：Shandong University Outstanding Student Award (Second Class)
@@ -28,10 +27,9 @@ title: Awards
 
 ## Services
 
-- Dec 2023 - Present：AAAI Student Membership
-- Sep 2022 - Present：IEEE Student Membership
-- Sep 2022 - Present：CAAI Student Membership
-- April 2022：Top 10 Best Volunteers (Only 10/30000) of Fuzhou University
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- July 2021：Outstanding volunteer at the 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at the 4th Digital China Summit<br>
+- May 2024: 2023 Outstanding Individual in Cultural & sports activities
+- May 2025: 2024 Outstanding Individual in Innovation & Entrepreneurship
+- May 2023: 2022 Excellent Youth League Member
+- May 2025: 2024 Excellent Youth League Member
+- Sep 2023 - June 2024：Director of Sports Department, Yiduo College Student Union, Shandong University
+- Sep 2024 - June 2025：President of Yiduo College Student Union, Shandong University
