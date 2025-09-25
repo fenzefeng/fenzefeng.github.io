@@ -22,7 +22,8 @@ title: Awards
 
 - Dec 2024：National University Students Intelligent Car Race - **<font color='red'>3rd Place (North China Region), National Second Prize</font>**
 - Feb 2024: Interdisciplinary Contest in Modeling (ICM) - **<font color='red'>Meritorious Winner(Top 7%)</font>**
-- Sep 2024: China Undergraduate Mathematical Contest in Modeling - **<font color='red'>Provincial Second Prize</font>**
+- Sep 2024: China Undergraduate Mathematical Contest in Modeling - **<font color='red'>Second Prize of Shandong Province</font>**
+- Aug 2025: National Undergraduate Electronics Design Contest - **<font color='red'>Second Prize of Shandong Province</font>**
 
 
 ## Services

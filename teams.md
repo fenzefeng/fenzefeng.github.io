@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /teams/index.html
 title: Teams
@@ -64,4 +64,4 @@ During undergraduate, my two roommates and I co-founded a tech group called Open
 <div>
 <img src="https://caihanlin.com/images/teams/teams4.jpg">
 </div>
-<br>
+<br> -->

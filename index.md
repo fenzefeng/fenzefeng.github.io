@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="360" height="480">
+<img src="https://fenzefeng.github.io/images/travel-1.jpeg" class="floatpic" width="360" height="480">
 
 Here is **Fenze Feng (冯奋泽)**.
 
@@ -21,9 +21,9 @@ I am a third-year undergraduate majoring in microelectronics at Shandong Univers
 
 ## Research Interests
 
-- Internet of Everything
+- Microelectronics
 - Integrated Circuit Design
-- Artificial Intelligence
+- EDA
 <!-- - Applied Machine Learning -->
 
 <!-- My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society. -->
