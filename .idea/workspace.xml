@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f920e74b-b2c1-48b2-9d1a-c9834de4255b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/zh/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/zh/index.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/awards.md" beforeDir="false" afterPath="$PROJECT_DIR$/awards.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,7 +32,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/Desktop/FenzeFeng/Self_Information/fenzefeng.github.io/CN",
+    "last_opened_file_path": "D:/Desktop/FenzeFeng/Self_Information/fenzefeng.github.io/zh",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -45,6 +44,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Desktop\FenzeFeng\Self_Information\fenzefeng.github.io\zh" />
       <recent name="D:\Desktop\FenzeFeng\Self_Information\fenzefeng.github.io\CN" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -70,7 +70,7 @@
       <workItem from="1667046175596" duration="621000" />
       <workItem from="1723991879230" duration="1618000" />
       <workItem from="1772526233665" duration="675000" />
-      <workItem from="1772678802451" duration="5377000" />
+      <workItem from="1772678802451" duration="6777000" />
     </task>
     <servers />
   </component>
