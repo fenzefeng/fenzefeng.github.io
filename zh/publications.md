@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /file/publications-zh/index.html
+permalink: /zh/publications/index.html
 title: Publications-zh
 ---
 
