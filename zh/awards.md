@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /zh/awards/index.html
-title: Awards-zh
+title: 成果
 ---
 
 > 更新时间：2026/03/10 &nbsp; [English Version (英文)](https://fengfenze.github.io/awards/)

@@ -15,7 +15,8 @@ I am a third-year undergraduate majoring in microelectronics at Shandong Univers
 
 ## Academic Background
 
-- **June 2022 - Now:** Shandong University (EE)
+- **September 2022 - June 2026:**&emsp;Shandong University (EE)
+- **September 2026 -&emsp;&emsp;Now&emsp;:**&emsp;Shanghaijiaotong University (IC)
 
 ---
 
