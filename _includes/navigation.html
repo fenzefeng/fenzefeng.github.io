@@ -1,13 +1,23 @@
 <div class="navigation-wrapper">
 	<div class="site-name">
+		{% if page.url contains '/zh/' %}
+		<a href="{{ site.url }}/zh/">{{ site.title }}</a>
+		{% else %}
 		<a href="{{ site.url }}">{{ site.title }}</a>
+		{% endif %}
 	</div><!-- /.site-name -->
   {% capture url %}{{ page.url | remove:'index.html' }}{% endcapture %}
 	<div class="top-navigation">
 		<nav role="navigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
 		    <ul>
 		        {% for link in site.links %}
-            <li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+				{% if page.url contains '/zh/' %}
+				<!-- 中文页面：链接指向中文版本 -->
+				<li><a href="{{ site.url }}/zh{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+				{% else %}
+				<!-- 英文页面：链接指向英文版本 -->
+				<li><a href="{{ site.url }}{{ link.url }}" {% if url == link.url %}class="top-navigation-current"{% endif %}>{{ link.title }}</a></li>
+				{% endif %}
 		        {% endfor %}
 				<li class="lang-switch">
 				  {% if page.url contains '/zh/' %}
