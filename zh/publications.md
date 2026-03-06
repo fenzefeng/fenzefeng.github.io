@@ -1,7 +1,8 @@
 ---
 layout: page
 permalink: /zh/publications/index.html
-title: Publications-zh
+title: Publications
+robots: noindex
 ---
 
 > 更新时间：2026/03/10 &nbsp;

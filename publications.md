@@ -2,6 +2,7 @@
 layout: page
 permalink: /publications/index.html
 title: Publications
+robots: noindex
 ---
 
 > Update: 2026/03/10

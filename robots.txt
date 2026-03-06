@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /
+Allow: /zh/
+
+Sitemap: https://fenzefeng.github.io/sitemap.xml

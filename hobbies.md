@@ -2,6 +2,7 @@
 layout: page
 permalink: /hobbies/index.html
 title: Hobbies
+robots: noindex
 ---
 
 # Hobbies

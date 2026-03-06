@@ -2,6 +2,7 @@
 layout: page
 permalink: /awards/index.html
 title: Awards
+robots: noindex
 ---
 
 > Lastest Update: 10th March 2026 &nbsp;

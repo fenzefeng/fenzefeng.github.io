@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /zh/index.html
+title: 冯奋泽
 ---
 
 # 自我介绍
