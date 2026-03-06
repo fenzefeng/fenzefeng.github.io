@@ -5,7 +5,7 @@ permalink: /zh/index.html
 
 # 自我介绍
 
-<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="360" height="480">
+<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="240" height="360">
 
 我是冯奋泽。
 

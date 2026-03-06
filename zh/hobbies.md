@@ -4,22 +4,6 @@ permalink: /zh/hobbies/index.html
 title: Hobbies
 ---
 
-<style>
-/* 调整 hobbies 页面字体大小 */
-.article-wrap h1 {
-    font-size: 42px;
-    font-size: 2.625rem;
-}
-.article-wrap h2 {
-    font-size: 28px;
-    font-size: 1.75rem;
-}
-.article-wrap p {
-    font-size: 16px;
-    font-size: 1rem;
-    line-height: 1.8;
-}
-</style>
 
 # 个人爱好
 

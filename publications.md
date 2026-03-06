@@ -11,7 +11,7 @@ title: Publications
 ## Conference Paper
 
 - Jia, Yifan, et al. "Benchmarking Multimodal Knowledge Conflict for Large Multimodal Models." arXiv preprint arXiv:2505.19509 (2025). Accepted by AAAI 2026.
-
+<!--
   <br>
 
 
@@ -23,7 +23,7 @@ title: Publications
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
 
-<!--
+
   <br>
 
 ---
