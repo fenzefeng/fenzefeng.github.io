@@ -3,8 +3,8 @@ layout: page
 permalink: /publications/index.html
 title: Publications
 ---
-<!-- 
-> Update: 14 May 2025
+
+> Update: 2026/03/10
 >
 > (†: equal contribution, ~: corresponding author)
 
@@ -23,6 +23,7 @@ title: Publications
 
 - [Industrial Inspection System based on Intelligent IoT and Bionic Quadruped Robot](https://caihanlin.com/mypaper/thesis/IP-report.pdf)<br>**Hanlin Cai** (Advisor: Zhezhuang Xu, Yuxiong Xia). Junior-year Intern Program.<br>Industrial Placement at China Huading Tech and IIoT Lab<br>
 
+<!--
   <br>
 
 ---
