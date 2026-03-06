@@ -2,9 +2,15 @@
 layout: page
 ---
 
-# About Me
+<!-- - 
+#    是h1一级标题
+##   是h2二级标题
+-    表示包含粗字体在星号中间（** 加粗内容 **）
+-->
 
-<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="360" height="480">
+# About Me 
+
+<img src="https://fenzefeng.github.io/images/travel-1.jpg" class="floatpic" width="240" height="360">
 
 Here is **Fenze Feng (冯奋泽)**.
 
