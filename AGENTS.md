@@ -8,7 +8,18 @@
 - **技术栈**: Jekyll + GitHub Pages
 - **主题基础**: Minimal Mistakes 主题（经自定义修改）
 - **模板来源**: 基于 Jason Ansel 的网站模板修改，由 Hanlin Cai 进一步开发
-- **当前维护者**: Fenze Feng
+- **当前维护者**: Fenze Feng (冯奋泽)
+
+## 个人信息概览
+
+- **姓名**: Fenze Feng (冯奋泽)
+- **教育背景**:
+  - 山东大学 微电子专业 本科（2022年9月 - 2026年6月）
+  - 上海交通大学 集成电路专业 研究生（2026年9月 - 至今）
+- **研究方向**: 微电子、集成电路设计、电子设计自动化（EDA）、电迁移可靠性
+- **邮箱**: 202200120030@mail.sdu.edu.cn
+- **GitHub**: https://github.com/fenzefeng
+- **Google Scholar**: https://scholar.google.com/citations?hl=zh-CN&user=sxocVP0AAAAJ
 
 ## 目录结构
 
@@ -37,7 +48,7 @@
 ├── images/              # 图片资源
 │   ├── logo/            # 图标/logo
 │   ├── teams/           # 团队照片
-│   └── fenze.jpeg       # 个人头像
+│   ├── fenze.jpeg       # 个人头像
 │   └── travel-1.jpg     # 主页展示图片
 ├── blogs/               # 博客文章（Markdown 格式）
 │   ├── *.assets/        # 各博客文章的配套图片目录
@@ -69,6 +80,7 @@
 - `links`: 导航栏链接（About Me, Publications, Awards, Hobbies）
 - `timezone`: 时区设置（China/Beijing）
 - `google_verify`: Google 站长验证（SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs）
+- `bing_verify`: 必应站长验证（73B0109F96BA6CDB0F7C0A5F13F5542A）
 - `disqus.shortname`: Disqus 评论系统标识（lancecai）
 
 ## 页面说明
@@ -287,10 +299,11 @@ jekyll serve --port 4000
 
 ## 更新日志
 
+- **2026-03-07**: 更新 AGENTS.md，添加个人信息概览部分，更新教育背景和研究方向
 - **2026-03-06**: 更新 AGENTS.md，添加多语言支持说明、博客文章列表、分析统计信息
 - **2023-12-10**: 上次更新 `_config.yml`
 - **2023-04-26**: 修改 `_layouts/default.html` 和 `_includes/head.html`
 
 ---
 
-*最后更新: 2026年3月6日*
+*最后更新: 2026年3月7日*
