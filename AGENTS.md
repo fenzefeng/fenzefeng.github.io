@@ -81,6 +81,7 @@
 - `timezone`: 时区设置（China/Beijing）
 - `google_verify`: Google 站长验证（SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs）
 - `bing_verify`: 必应站长验证（73B0109F96BA6CDB0F7C0A5F13F5542A）
+- `sogou_verify`: 搜狗站长验证（4uPyzCnDB3）
 - `disqus.shortname`: Disqus 评论系统标识（lancecai）
 
 ## 页面说明
